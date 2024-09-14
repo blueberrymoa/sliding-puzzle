@@ -15,7 +15,9 @@ git clone https://github.com/blueberrymoa/sliding-puzzle.git
 ## Gameplay Instructions
 
 File --> Open : upload your own image to use
+
 Edit : choose different modes of play
+
 View : adjust layout options
 
 ## Credits
