@@ -12,7 +12,7 @@ git clone https://github.com/blueberrymoa/sliding-puzzle.git
 
 2. For best compatibility, run PuzzleGameGUI.java with Eclipse or similar IDE.
 
-##Gameplay Instructions
+## Gameplay Instructions
 
 File --> Open : upload your own image to use
 Edit : choose different modes of play
